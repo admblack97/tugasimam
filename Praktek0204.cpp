@@ -7,4 +7,6 @@ int main(){
 	double LuasParket = 193*1215;
 	
 	double JumlahBox, Parket, Pasang, Total;
+	cout << "Luas Rumah			: ";
+	cin >> LR;
 }
